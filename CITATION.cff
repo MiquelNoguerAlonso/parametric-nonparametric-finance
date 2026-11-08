@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper."
+title: "Parametric and Nonparametric Models of Joint Returns: Density, Dependence, and Portfolio Tail Risk"
+type: article
+authors:
+  - family-names: "Noguer i Alonso"
+    given-names: "Miquel"
+doi: "10.5281/zenodo.24024955"
+date-released: "2026-11-07"

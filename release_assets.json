@@ -1,0 +1,63 @@
+{
+  "paper_doi": "10.5281/zenodo.24024955",
+  "manuscript_date": "2026-11-07",
+  "research_extraction_order": [
+    "Generative_Models_Finance_LaTeX.zip",
+    "Generative_Models_Finance_Reference_Samples.zip",
+    "Generative_Models_Finance_Round3_Checkpoints.zip",
+    "Generative_Models_Finance_Round4_Results_Checkpoints.zip",
+    "Generative_Models_Finance_Wishart_Numerical_Audit.zip",
+    "Wishart_CIR_Scenario_Archive.zip"
+  ],
+  "assets": [
+    {
+      "name": "Generative_Models_Finance_LaTeX.zip",
+      "bytes": 517547078,
+      "sha256": "c0fb0c5fb609e617884f049d14129d4415b3804341fe2b1150b94953557bccb2",
+      "role": "research"
+    },
+    {
+      "name": "Generative_Models_Finance_Reference_Samples.zip",
+      "bytes": 185084912,
+      "sha256": "97d0b8e25a04da9684cf29e6b376e00c4f7732e2c23b0323a0c08a26a1466e7c",
+      "role": "research"
+    },
+    {
+      "name": "Generative_Models_Finance_Round3_Checkpoints.zip",
+      "bytes": 117512508,
+      "sha256": "f1bfbce6e7d712a5088ab674e0b4105b364b83bcdf86043a52665530bd68b677",
+      "role": "research"
+    },
+    {
+      "name": "Generative_Models_Finance_Round4_Results_Checkpoints.zip",
+      "bytes": 138558025,
+      "sha256": "c91e018abb9db85ddd27a2ebc7b434f48592a5160deb93b72fc30c60ca441324",
+      "role": "research"
+    },
+    {
+      "name": "Generative_Models_Finance_Wishart_Numerical_Audit.zip",
+      "bytes": 230502761,
+      "sha256": "9adce703e2b32584f5cd5a977776badf3f9a8051c25c0cecd8e996ec56f8afde",
+      "role": "research"
+    },
+    {
+      "name": "Wishart_CIR_Scenario_Archive.zip",
+      "bytes": 239418774,
+      "sha256": "b499e98671aa7b3a4eb7c9882cdfa8e687c01c80913df6c84372834476d0e519",
+      "role": "research"
+    },
+    {
+      "name": "Parametric_and_Nonparametric_Multivariate_Models_in_Finance_Overleaf.zip",
+      "bytes": 422643637,
+      "sha256": "ad38d6920298180072bbed736f9e153b49a40544daeac6082438b40f320d2bff",
+      "role": "overleaf"
+    },
+    {
+      "name": "Parametric_and_Nonparametric_Models_of_Joint_Returns.pdf",
+      "bytes": 611341,
+      "sha256": "77d829ad6b29f2930768014497461e7f6c0790bcecf0745807e1f0827709201f",
+      "role": "paper"
+    }
+  ],
+  "repository": "https://github.com/MiquelNoguerAlonso/parametric-nonparametric-finance"
+}
