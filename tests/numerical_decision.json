@@ -1,0 +1,79 @@
+{
+  "completed_additional_runs": 4,
+  "total_wishart_cir_filter_runs": 30,
+  "forecast_rows_checked": 6000,
+  "score_reconstruction_max_error": 2.1316282072803006e-14,
+  "independent_banks": [
+    {
+      "particles": 8192,
+      "steps": 16,
+      "predictive": 32768,
+      "warmup": 504,
+      "moves": 3,
+      "n_test": 250,
+      "es_relative_rms": 0.048170720860278335,
+      "score_difference": -0.0500162985542337,
+      "passes": false,
+      "bank_scores": [
+        1.6410195233804616,
+        1.5910032248262278
+      ],
+      "mean_move_acceptance": [
+        0.7617255859375,
+        0.7460550130208332
+      ],
+      "minimum_ess": [
+        444.18271869559175,
+        1050.3646578987652
+      ],
+      "maximum_absolute_relative_es": 0.18580529783682773,
+      "top3_absolute_score_share": 0.6550379924525833,
+      "top3_score_dates": [
+        "2025-02-21",
+        "2025-10-10",
+        "2025-04-03"
+      ]
+    },
+    {
+      "particles": 16384,
+      "steps": 16,
+      "predictive": 32768,
+      "warmup": 504,
+      "moves": 3,
+      "n_test": 250,
+      "es_relative_rms": 0.06129629933484424,
+      "score_difference": -0.06879462907646294,
+      "passes": false,
+      "bank_scores": [
+        1.6588793461172,
+        1.5900847170407368
+      ],
+      "mean_move_acceptance": [
+        0.756314697265625,
+        0.7517727864583333
+      ],
+      "minimum_ess": [
+        1606.9321357404176,
+        1543.4613023211057
+      ],
+      "maximum_absolute_relative_es": 0.23837638350944532,
+      "top3_absolute_score_share": 0.6523717846343084,
+      "top3_score_dates": [
+        "2025-02-21",
+        "2025-11-13",
+        "2025-04-03"
+      ]
+    }
+  ],
+  "particle_refinement": {
+    "es_relative_rms": 0.047239722782389144,
+    "score_difference": -0.00782457361763741,
+    "passes": false
+  },
+  "stress_gate_passed": false,
+  "full_panel_completed": false,
+  "conditional_ranking_eligible": false,
+  "disposition": "Excluded from conditional ranking: numerical gates failed",
+  "parameters_unchanged": true,
+  "primary_forecasts_and_families_unchanged": true
+}

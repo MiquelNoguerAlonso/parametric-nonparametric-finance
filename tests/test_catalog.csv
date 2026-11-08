@@ -1,0 +1,26 @@
+script,description
+code/check_expanded_outputs.py,"Validate completed expanded records, sample sizes, chronology and inference."
+code/check_expansion.py,"Contracts that do not mirror training code: empirical ES, selection, chronology."
+code/check_math.py,Numerical falsification checks for formulas and implementation contracts.
+code/check_outputs.py,"Validate completeness, time separation, calibration accounting and Heston MGF."
+code/check_revision.py,"Independent accounting, predictability, likelihood and inference checks."
+code/check_round2.py,"Independent contracts for matched replay, filters, selection and reporting."
+code/check_round3.py,Independent checks for the new dense map and predictable EWMA recursion.
+code/check_round3_outputs.py,"Contract checks on completed controls, independently reconstructed scores."
+code/check_round4_kernels.py,"Independent distribution, optimizer, and dense nesting checks."
+code/check_round4_manuscript.py,Release-level document checks after LaTeX compilation.
+code/check_round4_outputs.py,"Release contracts for replay, forecasts, inference, and added estimators."
+code/check_wishart.py,Independent analytic/kernel checks for the new Wishart implementation.
+code/check_wishart_block.py,Fixed-covariance block normalizer is an independent analytic target.
+code/check_wishart_cir.py,import json
+code/check_wishart_cir_guidance.py,"Independent proposal-ratio checks, including accessible CIR boundary and negative tilts."
+code/check_wishart_cir_move.py,Independent checks of MH invariance and frozen-law characteristic functions.
+code/check_wishart_completion.py,Independent numerical checks for the tempered Wishart implementation.
+code/check_wishart_defensive.py,Defensive proposal normalizer and antithetic prediction checks.
+code/check_wishart_flat_aux.py,Flattened-ancestor proposal normalizer and antithetic prediction checks.
+code/check_wishart_gauge.py,Exact pathwise orthogonal invariance underlying factor canonicalisation.
+code/check_wishart_moment_aux.py,"Moment proposal checked against direct prior simulation, not its own weights."
+code/check_wishart_path_gauge.py,Pathwise proof check for predictable orthogonal factor rotations.
+code/check_wishart_release.py,Independent reconstruction and scope checks for the Wishart revision.
+code/verify_current_release.py,Verify current results without resetting the integrated manuscript.
+code/verify_highdim_sources.py,Independently reconstruct saved universes from source returns and verify exports.
